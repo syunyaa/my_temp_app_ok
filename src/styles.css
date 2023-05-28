@@ -1,5 +1,5 @@
 body {
-    font-family: arial, sans-serif;
+    font-family: arial, sans-serif; 
 }
 
 h1 {
@@ -30,6 +30,7 @@ li {
     margin: 20px auto;
     border-radius: 10px;
     max-width: 600px;
+    margin-bottom: 10px;
 }
 
 .weather-icon {
@@ -54,7 +55,11 @@ li {
     margin-bottom: 20px;
 }
 
-a {
+
+.footer {
+    display: block;
+    margin-top: 0;
+    text-align: center;
+    margin: 0 auto;
     cursor: pointer;
-    text-align: left;
 }
