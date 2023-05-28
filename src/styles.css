@@ -53,3 +53,8 @@ li {
 .search-form {
     margin-bottom: 20px;
 }
+
+a {
+    cursor: pointer;
+    text-align: left;
+}
